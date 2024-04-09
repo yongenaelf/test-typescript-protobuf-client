@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aelf-sdk": "^3.4.6"
+    "aelf-sdk": "^3.4.6",
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "@bufbuild/protobuf": "^1.8.0",

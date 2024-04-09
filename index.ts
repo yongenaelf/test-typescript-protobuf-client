@@ -1,3 +1,6 @@
+import * as dotenv from "dotenv";
+dotenv.config();
+
 import { HelloWorldClient } from "./client/contract/hello_world_contract_aelf";
 import { Address } from "./client/aelf/core_pb";
 import { Empty } from "@bufbuild/protobuf";
