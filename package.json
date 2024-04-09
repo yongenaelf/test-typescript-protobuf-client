@@ -1,0 +1,20 @@
+{
+  "name": "test-typescript-contract-protobuf-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aelf-sdk": "^3.4.6"
+  },
+  "devDependencies": {
+    "@bufbuild/protobuf": "^1.8.0",
+    "tsx": "^4.7.1"
+  }
+}
